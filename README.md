@@ -1,3 +1,7 @@
+## Live Demo
+
+Try the deployed application here: [Link](https://customer-churn-prediction-foyttizysjkmhtasdfdrgv.streamlit.app/)
+
 # Customer Churn Prediction
 
 An end-to-end machine learning project for predicting whether a telecom customer is likely to churn based on demographic information, subscribed services, contract details, and billing information.
